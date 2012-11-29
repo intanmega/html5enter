@@ -14,7 +14,7 @@
     }, {
         'question': 'Berikut adalah aturan baru pada HTML5 kecuali…',
         'answers': ['Proses pengembangan harus bisa dilihat public', 'Error handling yang lebih baik', 'Mengurangi kebutuhan plugin eksternal', 'Script mudah digunakan', 'Bisa diakses di device manapun'],
-        'correctAnswer': 3
+        'correctAnswer': 4
 	 }, {
         'question': 'Berikut adalah fitur baru pada HTML5,kecuali…',
         'answers': ['Elemen frame', 'Elemen canvas', 'Elemen audio dan video', 'Dukungan penyimpanan offline', 'Control form baru'],
@@ -33,21 +33,21 @@
         'correctAnswer': 2
 	}, {
         'question': 'Berikut adalah penulisan kode pada HTML5 yang diperbolehkan, kecuali…',
-        'answers': ['id = “belajarhtml”', 'id = belajarhtml', 'ID = “belajarhtml”', '_id = “belajarhtml” (benar)', 'ID = “ belajarhtml “'],
-        'correctAnswer': 4
+        'answers': ['id = “belajarhtml”', 'id = belajarhtml', 'ID = “belajarhtml”', '_id = “belajarhtml”', 'ID = “ belajarhtml “'],
+        'correctAnswer': 3
 	}, {
         'question': 'Apa kepanjangan dari HTML…',
         'answers': ['Hypertext Markup Language', 'Hiperteks Markup Language', 'Hyper Mark Language', 'Hypertext Mark Language', 'Hyper Markup Language'],
-        'correctAnswer': 4
+        'correctAnswer': 1
     },],
     'resultComments': {
         perfect: 'Sempurnaa, Jawabanmu kamu benar semua, Yeeee!! ', 
-        excellent: 'Hebaat, Jawabanmu sebagian Besar Benar :3', 
+        excellent: 'Hebaat, Jawabanmu sebagian Besar Benar', 
         good: 'Bagus, Tingkatkan Lagi hingga Sempurna', 
         average: 'Lumayanlah, Belajar Lagi ya, Kamu Pasti Bisa.. :)', 
         bad: 'Aaa, Mengecewakan..Kamu harus belajar Lebih Keras Lagi...!', 
         poor: 'Hiks, Sebagian Besar Jawabanmu Salah, Belajar Lebih Giat Lagi..! ', 
-        worst: 'Waduh, Semua jawabanmu salah, Tetap semangat untuk memperbaiki nilai ya..!'
+        worst: 'Waduh, Tetap semangat untuk memperbaiki nilai ya..!'
     }
 
 };
