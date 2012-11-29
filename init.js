@@ -34,7 +34,7 @@
 	}, {
         'question': 'Berikut adalah penulisan kode pada HTML5 yang diperbolehkan, kecuali…',
         'answers': ['id = “belajarhtml”', 'id = belajarhtml', 'ID = “belajarhtml”', '_id = “belajarhtml”', 'ID = “ belajarhtml “'],
-        'correctAnswer': 3
+        'correctAnswer': 4
 	}, {
         'question': 'Apa kepanjangan dari HTML…',
         'answers': ['Hypertext Markup Language', 'Hiperteks Markup Language', 'Hyper Mark Language', 'Hypertext Mark Language', 'Hyper Markup Language'],
