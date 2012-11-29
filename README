@@ -1,0 +1,22 @@
+•Deskripsi Umum:
+
+Website HTML5ENTER merupakan website yang berisi materi dan kuis mengenai HTML 5. HTML5ENTER ditujukan bagi mahasiswa yang ingin mendalami materi HTML5. Website ini menyediakan menu materi dalam bentuk flash dan menu evaluasi dalam bentuk pilihan ganda yang berjumlah 10 soal.
+
+Pada kuis HTML5ENTER terdapat:
+1.  Peringatan apabila user belum memilih salah satu opsi dari 5 opsi yang tersedia namun sudah mengklik tombol next.
+2. Terdapat kalimat penghargaan dan motivasi terkait dengan hasil skor yang diperoleh user di akhir kuis.
+3. Terdapat feedback skor disertai dengan jawaban yang benar di akhir kuis.
+
+
+•Deskripsi Teknis:
+menggunakan plugin jquizzy 
+
+•Demo URL:
+html5enter.webege.com
+
+•Collaborator:
+1. Ridha Ayu B. (109533414528)
+2. Trya Intan Mega Y. (109533423220)
+3. Rahajeng Kartika S. (109533423221)
+
+
